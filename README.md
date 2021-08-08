@@ -72,6 +72,12 @@ and here is the output
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/passing%20variables%20from%20python%20to%20html%20page.png)
 
 
+## Using one html page in other html page
+###### we have created a html file which will make web page of yellow color and we are importing that page in home.html page
+![alt text](https://github.com/themockingjester/Django/blob/main/images/one%20html%20file%20in%20another.png)
+
+
+
 ### Basic Commands
 
 
