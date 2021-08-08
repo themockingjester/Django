@@ -1,5 +1,13 @@
 # Django
 ![alt text](https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-808.png)
+
+## How Django Works
+![alt text](https://github.com/themockingjester/Django/blob/main/images/MVT.jpeg)
+###### Django use MVT (Model View Template)
+###### Mode will work with data
+###### view will work with logic
+###### template will work with design or layout
+
 ## Basic Project Structure
 
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/project%20structure.png)
