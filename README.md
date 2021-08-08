@@ -16,8 +16,19 @@
 ###### views.py used for sending request
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/app%20folder%20structure.png)
 
+### Note:- if you want your user can use your app(including you also) then you have to add urls.py of App Folder inside urls.py of Project Folder like this way as shown in image below
+![alt text](https://github.com/themockingjester/Django/blob/main/images/accessing%20apps%20urls.png)
+###### in above image line:- path('',include('myapp.urls')), tells computer hey you have to go to urls.py of the App henc user can access the app
 
 
+## Basic Content of urls.py in App's Directory
+###### Note: this file will be created by us django donot make it for us!
+![alt text](https://github.com/themockingjester/Django/blob/main/images/urlsdotpy.png)
+
+###### 1) in path function we used empty string because it denotes homepage
+###### 2) you can see in name parameter of path function we have written home but we can write other things also like index.html
+###### 3) you can see we have written views.home in path function so we have to make a function named home in views.py file of the App Folder
+######
 ### Basic Commands
 
 
