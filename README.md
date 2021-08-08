@@ -33,7 +33,18 @@
 ##### output till now
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/output1.png)
 ###### note :- you can also use html tags with drld string
+
+
+## Adding a new resource directory in django app
+###### Note:- For adding any new directory as a resource(like for storing files like html,css,javascript etc) you first have to add the path of that directory in project settings.py file as an example we have created a directory below figure shows how you can add this directory as a resource
+
+![alt text](https://github.com/themockingjester/Django/blob/main/images/adding%20resource%20folder.png)
+###### Note:- here we have set a directory named templates as a resource directory and you can check image of basic project structure to see where we have made the directory named templates
+
+
+
 ### Basic Commands
+
 
 
 ## Creating New Project
