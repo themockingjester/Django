@@ -41,6 +41,12 @@
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/adding%20resource%20folder.png)
 ###### Note:- here we have set a directory named templates as a resource directory and you can check image of basic project structure to see where we have made the directory named templates
 
+
+
+
+
+
+
 ## How to show a html page in django app
 ###### for this experiment we have added home.html page in templates directory
 ###### for this you have to change the the function like this way
@@ -58,6 +64,12 @@ and here is the output
 
 <br/>
 
+
+
+
+## Passing a variable from python function to a html page
+###### you can check the views.py , home.html and output in the figure below
+![alt text](https://github.com/themockingjester/Django/blob/main/images/passing%20variables%20from%20python%20to%20html%20page.png)
 
 
 ### Basic Commands
