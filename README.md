@@ -76,6 +76,13 @@ and here is the output
 ###### we have created a html file which will make web page of yellow color and we are importing that page in home.html page
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/one%20html%20file%20in%20another.png)
 
+## Getting data from user to perform some action
+###### check views.py and home.html carefully
+![alt text](https://github.com/themockingjester/Django/blob/main/images/getting%20data%20from%20html%20page%20into%20python%20function.png)
+###### check result.html and urls.py of App Directory carefully(since we are using a new function named power in views.py so we have to inform urls.py of App Directory about it)
+![alt text](https://github.com/themockingjester/Django/blob/main/images/getting%20data%20from%20html%20page%20into%20python%20function2.png)
+###### here is the output
+![alt text](https://github.com/themockingjester/Django/blob/main/images/output3.png)
 
 
 ### Basic Commands
