@@ -41,6 +41,19 @@
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/adding%20resource%20folder.png)
 ###### Note:- here we have set a directory named templates as a resource directory and you can check image of basic project structure to see where we have made the directory named templates
 
+## How to show a html page in django app
+###### for this experiment we have added home.html page in templates directory
+###### for this you have to change the the function like this way
+
+![alt text](https://github.com/themockingjester/Django/blob/main/images/showing%20a%20html%20page.png)
+
+content of home.html
+![alt text](https://github.com/themockingjester/Django/blob/main/images/homedothtml.png)
+and here is the output
+![alt text](https://github.com/themockingjester/Django/blob/main/images/outpu2.png)
+
+
+
 
 
 ### Basic Commands
