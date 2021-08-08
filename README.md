@@ -46,13 +46,17 @@
 ###### for this you have to change the the function like this way
 
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/showing%20a%20html%20page.png)
-
+<br/>
 content of home.html
+<br/>
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/homedothtml.png)
+<br/>
 and here is the output
+<br/>
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/outpu2.png)
 
 
+<br/>
 
 
 
