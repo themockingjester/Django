@@ -28,7 +28,8 @@
 ###### 1) in path function we used empty string because it denotes homepage
 ###### 2) you can see in name parameter of path function we have written home but we can write other things also like index.html
 ###### 3) you can see we have written views.home in path function so we have to make a function named home in views.py file of the App Folder
-######
+#### below is shown how to write home function
+![alt text](https://github.com/themockingjester/Django/blob/main/images/views.png)
 ### Basic Commands
 
 
