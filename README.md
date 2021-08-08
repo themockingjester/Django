@@ -77,11 +77,20 @@ and here is the output
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/one%20html%20file%20in%20another.png)
 
 ## Getting data from user to perform some action
-###### check views.py and home.html carefully
+###### check views.py and home.html carefully and remember you have to use single quotes in GET of power function in views.py
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/getting%20data%20from%20html%20page%20into%20python%20function.png)
 ###### check result.html and urls.py of App Directory carefully(since we are using a new function named power in views.py so we have to inform urls.py of App Directory about it)
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/getting%20data%20from%20html%20page%20into%20python%20function2.png)
 ###### here is the output
+![alt text](https://github.com/themockingjester/Django/blob/main/images/output3.png)
+
+## How to use POST method
+#### this is method is used to send data to server
+###### for using post method you have to use CSRF token as we have used in home.html as shown by arrow
+![alt text](https://github.com/themockingjester/Django/blob/main/images/using%20post1.png)
+###### here we have shown where you can find the CSRF token in settings.py
+![alt text](https://github.com/themockingjester/Django/blob/main/images/using%20post2.png)
+###### outpuut till now
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/output3.png)
 
 
