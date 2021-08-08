@@ -32,6 +32,7 @@
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/views.png)
 ##### output till now
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/output1.png)
+###### note :- you can also use html tags with drld string
 ### Basic Commands
 
 
