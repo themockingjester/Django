@@ -30,6 +30,8 @@
 ###### 3) you can see we have written views.home in path function so we have to make a function named home in views.py file of the App Folder
 #### below is shown how to write home function
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/views.png)
+##### output till now
+![alt text](https://github.com/themockingjester/Django/blob/main/images/output1.png)
 ### Basic Commands
 
 
