@@ -97,7 +97,7 @@ and here is the output
 ###### for using post method you have to use CSRF token as we have used in home.html as shown by arrow
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/using%20post1.png)
 ###### here we have shown where you can find the CSRF token in settings.py
-![alt text](https://github.com/themockingjester/Django/blob/main/images/using%20post2.png)
+![alt text](https://github.com/themockingjester/Django/blob/main/images/using%20post%202.png)
 ###### output till now
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/output3.png)
 
