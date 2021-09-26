@@ -8,6 +8,12 @@
 ###### view will work with logic
 ###### template will work with design or layout
 
+## Installing Virtual Environment in Ubuntu
+sudo apt-get install python3-venv
+
+## Creating Virtual Environment in Ubuntu
+python3 -m venv test
+
 ## Basic Project Structure
 
 ![alt text](https://github.com/themockingjester/Django/blob/main/images/project%20structure.png)
